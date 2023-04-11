@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GalleryApp/static/css/main.36b0e404.css",
+    "main.js": "/GalleryApp/static/js/main.dcc070a3.js",
+    "index.html": "/GalleryApp/index.html",
+    "main.36b0e404.css.map": "/GalleryApp/static/css/main.36b0e404.css.map",
+    "main.dcc070a3.js.map": "/GalleryApp/static/js/main.dcc070a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36b0e404.css",
+    "static/js/main.dcc070a3.js"
+  ]
+}
